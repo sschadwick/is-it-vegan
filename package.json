@@ -1,0 +1,19 @@
+{
+  "name": "is-it-vegan",
+  "version": "0.1.0",
+  "description": "Is it vegan?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/is-it-vegan/is-it-vegan.git"
+  },
+  "author": "jag aak dws ssc",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/is-it-vegan/is-it-vegan/issues"
+  },
+  "homepage": "https://github.com/is-it-vegan/is-it-vegan#readme"
+}
